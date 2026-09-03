@@ -1,13 +1,13 @@
-# Olá, me Gabriela!
+# Oii, eu sou a Gabs!
 
-Profissional da área de dados, com foco em **Engenharia de Dados**, **Analytics Engineering** e **DBA**. Apaixonado por transformar dados brutos em insights estratégicos, construir pipelines eficientes e otimizar a infraestrutura de bancos de dados.
+Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engineering** e **DBA**. Apaixonado por transformar dados brutos em insights estratégicos, construir pipelines eficientes e otimizar a infraestrutura de bancos de dados.
 
 ---
 
 ### 🛠️ Stacks & Tecnologias
 
 **Bancos de Dados & DBA:**
-- **Relacionais:** PostgreSQL, SQL Server (T-SQL), MySQL
+- **Relacionais:** SQL Server (T-SQL), MySQL, ORACLE
 - **Práticas:** Visões (views), Stored Procedures, Functions, Indexação, Otimização de Queries (Tuning), Mascaramento de dados e Controle de acessos (LGPD), Backups e Restauração
 
 **Engenharia de Dados & Analytics Engineering:**
@@ -24,14 +24,20 @@ Profissional da área de dados, com foco em **Engenharia de Dados**, **Analytics
 ### 💼 Experiência Relevante
 
 - **Estagiária de Data Analytics | Grupo Boticário**
-  - Construção de consultas complexas em SQL (BigQuery) para extração, limpeza e cruzamento de dados em escala[cite: 1, 2].
-  - Criação de dashboards interativos no Looker Studio e Power BI para apoio à tomada de decisão.
-  - Automação de rotinas analíticas com Python.
+  - Construí consultas complexas em SQL no Google BigQuery, aplicando joins, agregações e CTEs para extração, limpeza 
+    e estruturação de grandes volumes de dados. 
+  - Desenvolvi dashboards estratégicos no Looker Studio e Power BI, transformando dados brutos em visuais claros para 
+    suporte à tomada de decisão. 
+  - Implementei agente de IA utilizando LLMs e engenharia de prompts no LM Notebook, automatizando rotinas internas e a 
+    geração de relatórios. 
 
 - **Estagiária de Dados e Desenvolvimento | Virtues Média & APPS**
-  - Criação de rotinas automatizadas, views e stored procedures em T-SQL / SQL Server.
-  - Administração, controle de acessos, rotinas de backup, restauração e monitoramento de desempenho de bancos de dados relacionais.
-
+ - Estruturei rotinas automatizadas de movimentação de dados (ETL), views e stored procedures em T-SQL / SQL Server 
+   para tratamento e padronização de dados. 
+ - Administrei controles de acesso, permissões de usuários e mascaramento de dados sensíveis, assegurando 
+   conformidade com políticas de governança e segurança (LGPD). 
+ - Monitorei o desempenho e a estabilidade de bancos de dados relacionais, executando rotinas de manutenção, backup e 
+   recuperação de dados. 
 ---
 
 ### 📌 Projetos em Destaque
