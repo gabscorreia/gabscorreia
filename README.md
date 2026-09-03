@@ -21,30 +21,10 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 ---
 
-### 💼 Experiência Relevante
-
-- **Estagiária de Data Analytics | Grupo Boticário**
-  - Construí consultas complexas em SQL no Google BigQuery, aplicando joins, agregações e CTEs para extração, limpeza 
-    e estruturação de grandes volumes de dados. 
-  - Desenvolvi dashboards estratégicos no Looker Studio e Power BI, transformando dados brutos em visuais claros para 
-    suporte à tomada de decisão. 
-  - Implementei agente de IA utilizando LLMs e engenharia de prompts no LM Notebook, automatizando rotinas internas e a 
-    geração de relatórios. 
-
-- **Estagiária de Dados e Desenvolvimento | Virtues Média & APPS**
- - Estruturei rotinas automatizadas de movimentação de dados (ETL), views e stored procedures em T-SQL / SQL Server 
-   para tratamento e padronização de dados. 
- - Administrei controles de acesso, permissões de usuários e mascaramento de dados sensíveis, assegurando 
-   conformidade com políticas de governança e segurança (LGPD). 
- - Monitorei o desempenho e a estabilidade de bancos de dados relacionais, executando rotinas de manutenção, backup e 
-   recuperação de dados. 
----
-
 ### 📌 Projetos em Destaque
 
 - 📊 **[Projeto_BigData](./Projeto_BigData)**: Pipeline de ingestão, tratamento e engenharia de atributos para grandes volumes de dados públicos (DATASUS/IBGE) utilizando Python e Machine Learning.
 - 🚚 **[Gestao_Agil_de_Projetos](./Gestao_Agil_de_Projetos)**: Projeto acadêmico *DistribuiM* — Automação logística com foco em gestão de dados, processos e requisitos de negócio.
-- 🐍 **[python_poo](./python_poo)**: Repositório com conceitos avançados de Orientação a Objetos para automação e estruturação em Python.
 
 ---
 
