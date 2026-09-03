@@ -30,10 +30,9 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabscorreia&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscorreia&layout=compact&theme=dark" alt="Top Langs" height="150" />
-</p>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=gabscorreia&show_icons=true&theme=dark)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabscorreia&layout=compact&theme=dark)
 
 ---
 
