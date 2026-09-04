@@ -6,22 +6,22 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 ### 🛠️ Stacks & Tecnologias
 
-**Bancos de Dados & DBA:**
-- **Relacionais:** 
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-- **Práticas:** Visões (views), Stored Procedures, Functions, Indexação, Otimização de Queries (Tuning), Mascaramento de dados e Controle de acessos (LGPD), Backups e Restauração
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Engenharia de Dados & Analytics Engineering:**
-- **Linguagens:** SQL (T-SQL, BigQuery SQL, CTEs, Joins avançados) e Python (Pandas, PySpark)
-- **Nuvem & Ecossistemas:** GCP (BigQuery), AWS, Databricks, dbt
-- **Conceitos:** Pipelines ETL/ELT, Modelagem de Dados (Star Schema/Snowflake), Processamento Batch
-
-**Visualização de Dados & Outros:**
-- **BI & Dashboards:** Power BI (DAX e modelagem), Looker Studio
-- **Versionamento & Metodologias:** Git/GitHub, Scrum / Kanban
-
+<br/>
 ---
 
 ### 📌 Projetos em Destaque
