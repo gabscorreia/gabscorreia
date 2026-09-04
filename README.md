@@ -7,7 +7,10 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 ### 🛠️ Stacks & Tecnologias
 
 **Bancos de Dados & DBA:**
-- **Relacionais:** SQL Server (T-SQL), MySQL, ORACLE
+- **Relacionais:** 
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 - **Práticas:** Visões (views), Stored Procedures, Functions, Indexação, Otimização de Queries (Tuning), Mascaramento de dados e Controle de acessos (LGPD), Backups e Restauração
 
 **Engenharia de Dados & Analytics Engineering:**
