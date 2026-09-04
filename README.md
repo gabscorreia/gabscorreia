@@ -28,14 +28,6 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=gabscorreia&show_icons=true&theme=dark)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabscorreia&layout=compact&theme=dark)
-
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-correia-oliveira)
