@@ -25,10 +25,8 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 ---
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabscorreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscorreira&layout=compact&theme=dracula"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gabscorreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabscorreira&layout=compact&theme=dracula"/>
 </div>
 ---
 
