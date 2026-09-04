@@ -24,7 +24,6 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 ---
 
-Markdown
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabscorreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
