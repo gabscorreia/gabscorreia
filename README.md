@@ -24,11 +24,13 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 ---
 
-### 📌 Projetos em Destaque
-
-- 📊 **[Projeto_BigData](./Projeto_BigData)**: Pipeline de ingestão, tratamento e engenharia de atributos para grandes volumes de dados públicos (DATASUS/IBGE) utilizando Python e Machine Learning.
-- 🚚 **[Gestao_Agil_de_Projetos](./Gestao_Agil_de_Projetos)**: Projeto acadêmico *DistribuiM* — Automação logística com foco em gestão de dados, processos e requisitos de negócio.
-
+Markdown
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabscorreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscorreira&layout=compact&theme=dracula"/>
+  </a>
+</div>
 ---
 
 ### 📫 Conecte-se comigo
