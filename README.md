@@ -1,6 +1,6 @@
 # Oii, eu sou a Gabs!
 
-Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engineering** e **DBA**. Apaixonado por transformar dados brutos em insights estratégicos, construir pipelines eficientes e otimizar a infraestrutura de bancos de dados.
+Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engineering** e **DBA**. Apaixonada por transformar dados brutos em insights estratégicos, construir pipelines eficientes e otimizar a infraestrutura de bancos de dados.
 
 ---
 
