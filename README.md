@@ -34,3 +34,4 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-correia-oliveira)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabi.correia014@gmail.com)
+[![Lattes](https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=google-scholar&logoColor=white)](https://lattes.cnpq.br/7771433494764569)
