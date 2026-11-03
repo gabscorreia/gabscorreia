@@ -25,8 +25,11 @@ Profissional de **Dados**, com foco em **Engenharia de Dados**, **Analytics Engi
 ---
 
 <div align="center">
-  <img height="180em" alt="Gabs's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gabscorreia&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscorreia&theme=dracula&hide_progress=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabscorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabscorreia&layout=compact&theme=dracula"/>
+
 </div>
 ---
 
